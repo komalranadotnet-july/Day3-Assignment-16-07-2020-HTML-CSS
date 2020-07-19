@@ -1,0 +1,3 @@
+Q1. Explore radial gradient in CSS.
+
+Q2. Exploring animation in CSS.
